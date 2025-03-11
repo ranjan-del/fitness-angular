@@ -1,4 +1,5 @@
-# FitnessApp
+# FitnessApp - Ranjan G
+# Hosting url -https://ng-fitness-tracker-c68a3.web.app/  (checkout the app)
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.1.
 
